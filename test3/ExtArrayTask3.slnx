@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../ExtArrayTest3/ExtArrayTest3.vcxproj" />
+  <Project Path="ExtArrayTask3.vcxproj" Id="cc371e90-02f4-4e59-8686-ccc5ea90ee3b" />
+</Solution>
