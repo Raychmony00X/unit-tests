@@ -1,2 +1,0 @@
-Тип фреймворка: Microsoft Native Unit Test Framework
-Система сборки: CMake
